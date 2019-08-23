@@ -1,1 +1,1 @@
-print("aaaaaa22222")
+print("aaaaaa22")
